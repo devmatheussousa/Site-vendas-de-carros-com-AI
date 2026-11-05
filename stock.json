@@ -1,0 +1,128 @@
+[
+ {
+  "id": 1,
+  "n": "SUV Elétrico Lima",
+  "t": "SUV",
+  "cond": "Novo",
+  "y": 2025,
+  "km": 0,
+  "p": 229900,
+  "cv": 215,
+  "a": 420,
+  "z": "7,4",
+  "bat": 60,
+  "cor": "Verde-limão",
+  "img": "img/car1.webp",
+  "fx": [
+   "Teto panorâmico",
+   "Câmera 360°",
+   "Multimídia 15 pol.",
+   "Carregador CCS"
+  ]
+ },
+ {
+  "id": 2,
+  "n": "SUV Cupê Elétrico Vermelho",
+  "t": "SUV",
+  "cond": "Novo",
+  "y": 2025,
+  "km": 0,
+  "p": 259900,
+  "cv": 245,
+  "a": 480,
+  "z": "6,8",
+  "bat": 71,
+  "cor": "Vermelho metálico",
+  "img": "img/car2.webp",
+  "fx": [
+   "Design cupê",
+   "Piloto semiautônomo",
+   "Som premium",
+   "Carregador CCS"
+  ]
+ },
+ {
+  "id": 3,
+  "n": "SUV Elétrico Branco Pérola",
+  "t": "SUV",
+  "cond": "Seminovo",
+  "y": 2024,
+  "km": 12000,
+  "p": 209900,
+  "cv": 204,
+  "a": 400,
+  "z": "8,1",
+  "bat": 59,
+  "cor": "Branco pérola",
+  "img": "img/car3.webp",
+  "fx": [
+   "7 lugares",
+   "Teto solar",
+   "Revisado",
+   "Garantia de 1 ano"
+  ]
+ },
+ {
+  "id": 4,
+  "n": "Crossover Elétrico Grafite",
+  "t": "SUV",
+  "cond": "Seminovo",
+  "y": 2024,
+  "km": 9000,
+  "p": 239900,
+  "cv": 223,
+  "a": 430,
+  "z": "7,6",
+  "bat": 58,
+  "cor": "Cinza grafite",
+  "img": "img/car4.webp",
+  "fx": [
+   "Faróis em LED",
+   "Painel digital",
+   "Revisado",
+   "Garantia de 1 ano"
+  ]
+ },
+ {
+  "id": 5,
+  "n": "SUV Cupê Elétrico Cobre",
+  "t": "SUV",
+  "cond": "Novo",
+  "y": 2025,
+  "km": 0,
+  "p": 349900,
+  "cv": 313,
+  "a": 520,
+  "z": "5,9",
+  "bat": 90,
+  "cor": "Cobre metálico",
+  "img": "img/car5.webp",
+  "fx": [
+   "Tração integral",
+   "Teto panorâmico",
+   "Assistente de voz",
+   "Carga rápida"
+  ]
+ },
+ {
+  "id": 6,
+  "n": "BYD Dolphin",
+  "t": "Hatch",
+  "cond": "Seminovo",
+  "y": 2024,
+  "km": 8000,
+  "p": 139900,
+  "cv": 95,
+  "a": 291,
+  "z": "12,3",
+  "bat": 44.9,
+  "cor": "Azul",
+  "img": "img/car6.webp",
+  "fx": [
+   "Ideal para a cidade",
+   "Central rotativa",
+   "Revisado",
+   "Garantia de 1 ano"
+  ]
+ }
+]
